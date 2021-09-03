@@ -6,6 +6,8 @@ Red -2
 Green -2
 violet
 gray
+voilet - 2
+gray - 2 
 One
 Two
 Three
@@ -13,4 +15,4 @@ Four
 five
 six
 seven
-eight
+eight 
