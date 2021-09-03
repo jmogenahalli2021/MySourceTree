@@ -2,3 +2,5 @@ Red - 1 - 2
 Gree - 1 - 2
 Black - 1 - 2
 White - 2
+Red -2
+Green -2
