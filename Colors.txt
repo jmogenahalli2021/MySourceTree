@@ -4,3 +4,5 @@ Black - 1 - 2
 White - 2
 Red -2
 Green -2
+violet
+gray
